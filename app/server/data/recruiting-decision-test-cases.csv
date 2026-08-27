@@ -1,0 +1,3 @@
+﻿stage,days_inactive,sla_breached,feedback_submitted,feedback_required,candidate_followups,hiring_manager_active,expected_decision,scenario_description
+Background Check,2,false,1,1,0,false,wait,"Background Check: progressing normally, no urgency yet"
+Phone Screen,4,false,2,2,0,true,act,"Feedback complete, candidate waiting 4 days"
